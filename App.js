@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import { AiOutlineDelete } from "react-icons/ai";
 import { BsCheckLg } from "react-icons/bs";
 import "/index.css";
-import { useState } from "react";
+
 const App = () => {
   const [allTodos, setAllTodos] = useState([]);
   const [newTodoTitle, setNewTodoTitle] = useState("");
