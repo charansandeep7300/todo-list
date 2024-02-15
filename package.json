@@ -1,0 +1,30 @@
+{
+  "name": "toffee",
+  "version": "1.0.0",
+  "description": "Todo List Task given by Binit",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charansandeep7300/todo-list.git"
+  },
+  "author": "sandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charansandeep7300/todo-list/issues"
+  },
+  "homepage": "https://github.com/charansandeep7300/todo-list#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1"
+  }
+}
